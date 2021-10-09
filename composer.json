@@ -1,0 +1,21 @@
+{
+    "name": "michael23/nacos-client",
+    "description": "nacos客户端，适用php5.5",
+    "type": "library",
+    "license": "michael23-1.1",
+    "authors": [
+        {
+            "name": "michael23",
+            "email": "244360439@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SwoftRpcClient\\": "src/"
+        }
+    },
+    "keywords": ["nacos",  "php", "client"],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
