@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MicroTool\\": "src/"
+            "MicroTool\\Nacos\\": "src/"
         }
     },
     "keywords": ["nacos",  "php", "client"],

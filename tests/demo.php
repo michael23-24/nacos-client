@@ -15,7 +15,7 @@ require '../src/AbstractProvider.php';
 require '../src/NacosClient.php';
 
 
-$application = new \Michael23\Nacos\NacosClient([
+$application = new \MicroTool\Nacos\NacosClient([
     'base_uri'      => 'http://localhost:8848',
     'username'      => 'nacos',
     'password'      => 'nacos',
