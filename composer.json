@@ -1,6 +1,6 @@
 {
     "name": "michael23/nacos-client",
-    "description": "nacos客户端，适用php5.5",
+    "description": "nacos客户端，适用php5.5以上",
     "type": "library",
     "license": "MIT",
     "authors": [
