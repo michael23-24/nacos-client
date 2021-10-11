@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | date: 2021-10-09
 // +----------------------------------------------------------------------
-namespace Michael23\Nacos;
+namespace MicroTool\Nacos;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;

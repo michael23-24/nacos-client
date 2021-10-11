@@ -8,7 +8,7 @@
  * @contact  group@hyperf.io
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
-namespace Michael23\Nacos;
+namespace MicroTool\Nacos;
 
 class Config
 {
