@@ -3,9 +3,6 @@
     "description": "nacos客户端，适用php5.5",
     "type": "library",
     "license": "MIT",
-    "require": {
-        "php": ">=5.5"
-    },
     "authors": [
         {
             "name": "michael23",
@@ -19,6 +16,7 @@
     },
     "keywords": ["nacos",  "php", "client"],
     "require": {
+        "php": ">=5.5",
         "guzzlehttp/guzzle": "^6.5"
     }
 }
